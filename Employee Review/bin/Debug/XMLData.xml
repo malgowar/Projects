@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<Employees>
+  <Employee>
+    <ID>3a4e680e-5579-4958-98c9-f7c8e6da23ac</ID>
+    <Name>John</Name>
+    <Surname>Stewart</Surname>
+    <Age>41</Age>
+    <Position>Assistant</Position>
+    <Salary>2000</Salary>
+    <NIP>3967544933</NIP>
+    <BirthDate>12.12.1978</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeM2.png</ImageSource>
+    <Sex>M</Sex>
+  </Employee>
+  <Employee>
+    <ID>8f21e39d-9cfb-4c4e-be88-721947937589</ID>
+    <Name>Anna</Name>
+    <Surname>Owen</Surname>
+    <Age>34</Age>
+    <Position>Manager</Position>
+    <Salary>4000</Salary>
+    <NIP>9914953477</NIP>
+    <BirthDate>13.09.1985</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeF5.png</ImageSource>
+    <Sex>F</Sex>
+  </Employee>
+  <Employee>
+    <ID>9b882e19-875b-4a5b-b115-a83e703c7bcb</ID>
+    <Name>Bob</Name>
+    <Surname>Russel</Surname>
+    <Age>54</Age>
+    <Position>IT Specialist</Position>
+    <Salary>5000</Salary>
+    <NIP>4187648149</NIP>
+    <BirthDate>21.03.1965</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeM1.png</ImageSource>
+    <Sex>M</Sex>
+  </Employee>
+  <Employee>
+    <ID>6f260cb2-1446-41a1-af84-6595c188fa7f</ID>
+    <Name>Adam</Name>
+    <Surname>Johnson</Surname>
+    <Age>28</Age>
+    <Position>Database Administrator</Position>
+    <Salary>4500</Salary>
+    <NIP>2449150025</NIP>
+    <BirthDate>27.07.1991</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeM5.png</ImageSource>
+    <Sex>M</Sex>
+  </Employee>
+  <Employee>
+    <ID>83a19bf3-c1b9-48b0-b3d4-8359a1af0b49</ID>
+    <Name>Mandy</Name>
+    <Surname>Grown</Surname>
+    <Age>32</Age>
+    <Position>Analyst</Position>
+    <Salary>3800</Salary>
+    <NIP>3412325575</NIP>
+    <BirthDate>12.12.1987</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeF2.png</ImageSource>
+    <Sex>F</Sex>
+  </Employee>
+  <Employee>
+    <ID>afccf9e9-8134-4c84-b884-1c44a6df0674</ID>
+    <Name>Susan</Name>
+    <Surname>Smith</Surname>
+    <Age>40</Age>
+    <Position>HR Consultant</Position>
+    <Salary>5000</Salary>
+    <NIP>9012325765</NIP>
+    <BirthDate>12.12.1979</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeF3.png</ImageSource>
+    <Sex>F</Sex>
+  </Employee>
+  <Employee>
+    <ID>906364c9-23c7-4e83-bc6c-f74a4a8460be</ID>
+    <Name>Samantha</Name>
+    <Surname>Grace</Surname>
+    <Age>21</Age>
+    <Position>Junior Developer</Position>
+    <Salary>4000</Salary>
+    <NIP>9012325765</NIP>
+    <BirthDate>20.12.1997</BirthDate>
+    <ImageSource>D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Ikony\EmployeeF2.png</ImageSource>
+    <Sex>F</Sex>
+  </Employee>
+</Employees>

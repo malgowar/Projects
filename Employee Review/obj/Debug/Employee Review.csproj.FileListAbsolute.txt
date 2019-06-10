@@ -1,0 +1,16 @@
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Employee Review.exe.config
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Employee Review.exe
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\bin\Debug\Employee Review.pdb
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.csprojAssemblyReference.cache
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\MainWindow.g.cs
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\App.g.cs
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review_MarkupCompile.cache
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review_MarkupCompile.lref
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\MainWindow.baml
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.g.resources
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee_Review.Properties.Resources.resources
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.csproj.GenerateResource.cache
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.csproj.CoreCompileInputs.cache
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.exe
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\Employee Review.pdb
+D:\Moje\01_Praca\02_Rekrutacja\02_ARP Ideas\Etap_02\Employee Review\Employee Review\obj\Debug\App.baml
